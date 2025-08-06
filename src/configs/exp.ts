@@ -5,8 +5,8 @@ export const experiences = [
     location: "Chandigarh",
     period: "Jun 2025 - Present",
     description:
-      "Analyzed and optimized Input Tax Credit (ITC) eligibility for clients. Assisted in GST audits, assessments, and tax authority responses. Conducted research on GST legislation to provide actionable insights.",
-    skills: ["GST", "Tax Audits", "ITC Analysis", "Regulatory Research"],
+      "Developed and managed partnerships to drive service growth and customer acquisition.Coordinated with operations and marketing teams to streamline service delivery.Monitored key metrics and provided performance reports to leadership for data-driven decisions.",
+    skills: ["Business Development", "Sales Strategy", "Client Relationship Management", "Market Research & Analysis","Partner Onboarding"],
     type: "job",
   },
   {
