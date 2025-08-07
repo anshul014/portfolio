@@ -19,6 +19,6 @@ export const skills = [
   {
     category: "Developer Tools",
     icon: GitBranch,
-    skills: ["Git/GitHub", "Goolgr CLoud Platform", "Jupyter"],
+    skills: ["Git/GitHub", "Google CLoud Platform", "Jupyter"],
   },
 ];
