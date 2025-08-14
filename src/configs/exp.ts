@@ -5,7 +5,7 @@ export const experiences = [
     location: "Chandigarh",
     period: "Jun 2025 - Present",
     description:
-      "Developed and managed partnerships to drive service growth and customer acquisition.Coordinated with operations and marketing teams to streamline service delivery.Monitored key metrics and provided performance reports to leadership for data-driven decisions.",
+      "Built and managed 120+ high-value partnerships, Increasing bookings by 15% in the first quarter. Optimized service delivery workflows, Reducing request loss rate by 22% through proactive follow-ups and improved lead handling.Enhanced Operational efficiency by 20% by streamlining coordination between sales, operations, and Training team. Reduced service delivery delays by 25%, improving overall customer satisfaction scores.Developed weekly KPI dashboards tracking request lost rate, Conversion rates, and operational bottlenecks,enabling faster, data-driven decisions.",
     skills: ["Business Development", "Sales Strategy", "Client Relationship Management", "Market Research & Analysis","Partner Onboarding"],
     type: "job",
   },
