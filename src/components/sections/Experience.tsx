@@ -65,7 +65,7 @@ export default function Experience() {
                   <p className="text-muted-foreground mb-4">
                     {exp.company} • {exp.location}
                   </p>
-                  <p className="mb-4">{exp.description}</p>
+                  <ul className="mb-4">{exp.description}</ul>
                   <div className="flex flex-wrap gap-2">
                     {exp.skills.map((skill) => (
                       <Badge key={skill} variant="outline">
