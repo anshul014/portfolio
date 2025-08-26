@@ -17,31 +17,11 @@ export default function About() {
         <AnimatedSection className="max-w-3xl mx-auto" delay={0.2}>
           <div className="space-y-6 text-lg leading-relaxed">
             <p>
-              I'm a dedicated Business Analyst with a passion for transforming
-              complex data into actionable insights. With a background in
-              business strategy and analytical thinking, I help organizations
-              make informed decisions that drive growth and operational
-              efficiency.
-            </p>
-            <p>
-              My journey began at the University of Technology, where I earned
-              my Bachelor's degree in Business Administration. Since then, I've
-              worked with startups and established enterprises, leading
-              initiatives that streamline processes, improve user satisfaction,
-              and align business goals with technology.
-            </p>
-            <p>
-              When I'm not analyzing trends or refining workflows, I enjoy
-              exploring the latest in data analytics tools, contributing to
-              professional communities, and mentoring aspiring analysts. I'm
-              committed to continuous learning and staying ahead in a dynamic
-              business environment.
-            </p>
-            <p>
-              I thrive in collaborative settings, where I can connect the dots
-              between stakeholders, developers, and end users. My goal is to
-              deliver solutions that not only meet business objectives but also
-              add lasting value.
+              I am a detail-oriented Business Analyst Student, passionate about transforming complex data into clear, actionable insights. My experience spans operational management,
+              data-driven problem-solving, and analytics from optimizing partner networks at Urban Company to enhancing efficiency through predictive models and visualization projects. 
+              Skilled in Python, MySQL, MS-Excel, and analytical tools like SAS and SPSS, I enjoy uncovering patterns and delivering strategies that support smarter decision-making.
+              With hands-on experience in machine learning, data visualization, and end-to-end workflows, I aim to bridge the gap between business needs and technical solutions, 
+              driving growth and efficiency in dynamic environments.
             </p>
           </div>
         </AnimatedSection>
