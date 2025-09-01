@@ -24,7 +24,7 @@ export default function About() {
               driving growth and efficiency in dynamic environments.
             </p>
           </div>
-        </AnimatedSection>
+        </AnimatedSection> 
       </div>
     </section>
   );
