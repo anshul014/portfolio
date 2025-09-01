@@ -16,8 +16,8 @@ export const contactItems = [
   {
     icon: Mail,
     title: "Email",
-    value: "itzanshul.014@gmail.com",
-    href: "mailto:itzanshul.014@gmail.com",
+    value: "itzanshul.14@gmail.com",
+    href: "mailto:itzanshul.14@gmail.com",
   },
   {
     icon: LinkedInIcon,
